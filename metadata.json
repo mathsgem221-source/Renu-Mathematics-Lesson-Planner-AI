@@ -1,0 +1,5 @@
+{
+  "name": "Renu Mathematics Lesson Planner AI",
+  "description": "An AI platform designed to generate 40-minute lesson plans based on the Sri Lankan NIE curriculum and Edupub textbooks for Grades 6-11 using the 3P model.",
+  "requestFramePermissions": []
+}
